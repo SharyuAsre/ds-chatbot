@@ -1,0 +1,13 @@
+myvenv/
+venv310/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.pkl
+.env
+*.jpg
+*.jpeg
+*.png
+dataset/
+data/
